@@ -12,7 +12,7 @@ Software que emite cupom de uma compra em mercado com a descrição de compra.
 
 - Observer: Foi usado para notificação dentro do sistema para informar que a compra foi concluída com sucesso. Sendo padrão de projeto comportamental que permite que defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
 
-- Strategy: Usado para aplicar estratégias de pagamento podendo optar pelo cartão ou dinheiro. Sendo um padrão de projeto criacional que permite construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
+- Strategy: Usado para aplicar estratégias de pagamento podendo optar pelo cartão ou dinheiro. Sendo um padrão de projeto criacional que permite construir objetos complexos passo a passo. O padrão permite que produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
 # Autores
 

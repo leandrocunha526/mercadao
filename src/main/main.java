@@ -1,5 +1,6 @@
 package main;
 
+import cliente.*;
 import notifica.*;
 import produto.*;
 import pagamento.*;
@@ -7,7 +8,10 @@ import pagamento.*;
 public class main {
 
     public static void main(String[] args) {
-                
+        
+        //Cliente - builder
+        Cliente cliente = new ClienteConstrutor().cliente().nome("Gabriel").cidade("Patos de Minas").construtor();
+        
         //Produto - composite
         Produto arroz = new ProdutoSimples("arroz ", 8.60);
         Produto feijao = new ProdutoSimples("feijao", 7.60);
@@ -21,7 +25,7 @@ public class main {
         //Pagamento - strategy
         FormaPagamento dinheiro = new PagamentoDinheiro();
         
-        Pagamento pagamento = new Pagamento(dinheiro);
+        Pagamento pagamento = new Pagamento(cliente, dinheiro);
         pagamento.Pagamento();
         
         //Notifica - observer

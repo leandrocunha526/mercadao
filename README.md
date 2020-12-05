@@ -12,7 +12,7 @@ Software que emite detalhes de uma compra com as respectivas informações:
 # Patterns utilizados
 ### OBS: Sendo permitido na descrição da APS trabalhar com pattern Observer em diante seguindo o plano de aula no Portal do Aluno.
 
-- Builder: Usado para criar o objeto cliente e associar o cliente a um pagamento de uma compra. Sendo um padrão de projeto de software criacional que permite a separação da construção de um objeto complexo na representação, de forma que o mesmo processo de construção possa criar diferentes representações.
+- Builder: Usado para criar o objeto cliente e associar o cliente e a cidade do cliente a um pagamento de uma compra. Sendo um padrão de projeto de software criacional que permite a separação da construção de um objeto complexo na representação, de forma que o mesmo processo de construção possa criar diferentes representações.
 
 - Composite: Foi usado para criar o combo de produtos, sendo produtos divididos em simples e compostos. É um padrão de projeto estrutural que permite que componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
 

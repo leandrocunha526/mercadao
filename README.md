@@ -13,7 +13,8 @@ Software que emite detalhes de uma compra com as respectivas informações:
 
 ![captura de tela](.github/Screenshot_20201205_153651.png)
 
-- IDE utilizada para desenvolvimento: [IDEA Intellij](https://www.jetbrains.com/pt-br/idea/)
+- IDE utilizada para desenvolvimento e teste: [IDEA Intellij](https://www.jetbrains.com/pt-br/idea)
+- O projeto também foi testado com [Netbeans](https://netbeans.org)
 
 # Patterns utilizados
 ### OBS: Sendo permitido na descrição da APS trabalhar com pattern Observer em diante seguindo o plano de aula no Portal do Aluno.

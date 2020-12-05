@@ -10,7 +10,7 @@ Software que emite detalhes de uma compra com as respectivas informações:
 - Notificação de confirmação.
 
 # Patterns utilizados
-### OBS: Sendo permitido na descrição da APS trabalhar com pattern Observer em diante seguindo o plano de aula no Portal do Aluno
+### OBS: Sendo permitido na descrição da APS trabalhar com pattern Observer em diante seguindo o plano de aula no Portal do Aluno.
 
 - Builder: Usado para criar o objeto cliente e associar o cliente a um pagamento de uma compra. Sendo um padrão de projeto de software criacional que permite a separação da construção de um objeto complexo na representação, de forma que o mesmo processo de construção possa criar diferentes representações.
 

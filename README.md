@@ -22,8 +22,8 @@ Software que emite detalhes de uma compra com as respectivas informações:
 
 # Autores
 
-- Leandro Cunha - e-mail: leandrocunha526@gmail.com
-- Gabriel Marra - e-mail: gabrielgtba2009@hotmail.com
+- Leandro Cunha (usuário: leandrocunha526) - e-mail: leandrocunha526@gmail.com
+- Gabriel Marra (usuário: gmmarra33) - e-mail: gabrielgtba2009@hotmail.com
 
 # Docs
 - [Basic writing and formatting syntax](https://docs.github.com/pt/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)

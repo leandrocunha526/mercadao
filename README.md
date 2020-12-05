@@ -4,7 +4,7 @@
 
 Software que emite detalhes de uma compra com as respectivas informações:
 
-- Cliente que realizou a compra,
+- Cliente e a cidade do cliente que realizou a compra,
 - Produtos da compra possibilitando criar combos,
 - Meio de pagamento usado para a compra,
 - Notificação de confirmação.

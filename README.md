@@ -9,6 +9,12 @@ Software que emite detalhes de uma compra com as respectivas informações:
 - Meio de pagamento usado para a compra,
 - Notificação de confirmação.
 
+# Demonstração
+
+[captura de tela](.github/Screenshot_20201205_153651.png)
+
+- IDE utilizada para desenvolvimento: [IDEA Intellij](https://www.jetbrains.com/pt-br/idea/)
+
 # Patterns utilizados
 ### OBS: Sendo permitido na descrição da APS trabalhar com pattern Observer em diante seguindo o plano de aula no Portal do Aluno.
 

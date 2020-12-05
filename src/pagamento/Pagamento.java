@@ -39,6 +39,7 @@ public class Pagamento {
     public void Pagamento()
     {
         System.out.println("Cliente: " + cliente.getNome());
+        System.out.println("Cidade do cliente: " + cliente.getCidade());
         System.out.println("Forma de pagamento: " + formaPagamento.getFormaPagamento());
     }
 }

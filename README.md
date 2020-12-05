@@ -11,7 +11,7 @@ Software que emite detalhes de uma compra com as respectivas informações:
 
 # Demonstração
 
-[captura de tela](.github/Screenshot_20201205_153651.png)
+![captura de tela](.github/Screenshot_20201205_153651.png)
 
 - IDE utilizada para desenvolvimento: [IDEA Intellij](https://www.jetbrains.com/pt-br/idea/)
 

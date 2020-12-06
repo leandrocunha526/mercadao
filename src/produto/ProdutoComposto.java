@@ -12,7 +12,7 @@ public class ProdutoComposto implements Produto{
     }
     @Override
     public String getNome(){
-        return produto1.getNome() + "e " + produto2.getNome();
+        return produto1.getNome() + " e " + produto2.getNome();
     }
     @Override
     public Double getValor(){

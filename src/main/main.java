@@ -13,7 +13,7 @@ public class main {
         Cliente cliente = new ClienteConstrutor().cliente().nome("Gabriel").cidade("Patos de Minas").construtor();
         
         //Produto - composite
-        Produto arroz = new ProdutoSimples("arroz ", 8.60);
+        Produto arroz = new ProdutoSimples("arroz", 8.60);
         Produto feijao = new ProdutoSimples("feijao", 7.60);
         Produto kit = new ProdutoComposto(arroz, feijao, 16.20);
         

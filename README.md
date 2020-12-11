@@ -21,7 +21,7 @@ Software que emite detalhes de uma compra com as respectivas informações:
 
 - Builder: Usado para criar o objeto cliente e possibilitar associar o pagamento da compra usando uma das estratégias como dinheiro e cartão a um cliente e a cidade deste cliente. Sendo um padrão de projeto de software criacional que permite a separação da construção de um objeto complexo na representação, de forma que o mesmo processo de construção possa criar diferentes representações.
 
-- Composite: Foi usado para criar o combo de produtos, sendo produtos divididos em simples e compostos. É um padrão de projeto estrutural que permite que componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+- Composite: Foi usado para criar o combo de produtos, sendo produtos divididos em simples e compostos. Os produtos compostos é um agrupamento de vários produtos simples. É um padrão de projeto estrutural que permite que componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
 
 - Observer: Foi usado para possibilitar a notificação dentro do sistema para informar que a compra foi concluída com sucesso. É um padrão de projeto comportamental que permite que defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
 
